@@ -262,7 +262,7 @@ class Indicator:
         return "NVIDIA GPU is powered " + ("ON" if self.is_nvidia_on() else "OFF")
 
     def nv_power_switch_string(self) -> str:
-        return "Force NVIDIA GPU to power " + ("OFF" if self.is_nvidia_on() else "ON")
+        return "Force NVIDIA GPU to " + ("power OFF" if self.is_nvidia_on() else "power ON")
 
     def is_nvidia_on(self) -> bool:
         out = subprocess.getoutput("cat /proc/acpi/bbswitch")
