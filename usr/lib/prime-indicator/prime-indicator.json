@@ -102,5 +102,9 @@
 	"logout_message2": {
 	"it_IT": "Per completare il passaggio devi terminare la sessione manualmente.",
 	"en_EN": "Please manually log out and then log in again to complete the switch."
+	},
+	"dialog.add_button": {
+	"it_IT": "Termina sessione",
+	"en_EN": "Log Out"
 	}
 }
