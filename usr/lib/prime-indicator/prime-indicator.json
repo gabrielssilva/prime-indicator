@@ -96,14 +96,17 @@
 	"en_EN": "Quit"
 	},
 	"logout_message": {
+	"hu_HU": "Úgy tűnik az általad használt asztali környezet jelenleg nem támogatott. ",
 	"it_IT": "L'ambiente desktop in uso non è supportato. ",
 	"en_EN": "It seems you're running an unsupported Desktop Environment. "
 	},
 	"logout_message2": {
+	"hu_HU": "Ezért kézileg kell kijelentkezned a művelet befejezéséhez.",
 	"it_IT": "Per completare il passaggio devi terminare la sessione manualmente.",
 	"en_EN": "Please manually log out and then log in again to complete the switch."
 	},
 	"dialog.add_button": {
+	"hu_HU": "Kijelentkezés"
 	"it_IT": "Termina sessione",
 	"en_EN": "Log Out"
 	}
